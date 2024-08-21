@@ -18,3 +18,6 @@ Planning a trip and wondering how much it'll cost to fly? Our flight price predi
 ## Let's Fly! ✈️
 
 Ready to plan your next adventure? Use our flight price prediction tool to find the best deals and make informed decisions.
+
+## Contact ME 📧
+If you have any questions, suggestions, or would like to contribute to the project, please feel free to contact me at gandhiparth588@gmail.com. I'm always open to feedback and collaboration.
